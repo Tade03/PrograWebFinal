@@ -48,6 +48,8 @@ footer {
 
 /* Clases CSS */
 
+
+
 .negritas{
   font-weight: bold;
 }
@@ -228,11 +230,33 @@ div.imageWithText{
   margin: 3rem;
 }
 
+#sinArmas{
+  background-color: rgba(72, 73, 73, 0.803); 
+}
+
+#conArmas{
+  background-color: rgba(72, 73, 73, 0.803);
+}
+
+#introduccion{
+  background-color: rgba(72, 73, 73, 0.803);
+}
+
+#caracteristicas{
+  background-color: rgba(72, 73, 73, 0.803);
+}
+
+#filosofia{
+  background-color: rgba(72, 73, 73, 0.803);
+}
+
+
 #agarre article {
   margin: 3rem;
 }
 
 #sinArmasAgarre article {
+  
   margin: 3rem;
 }
 
